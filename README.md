@@ -1,0 +1,2 @@
+# slack-reaction-ranking
+Slackの全Publicチャンネルに過去90日間で投稿メッセージについたリアクションを集計してランキングにする
